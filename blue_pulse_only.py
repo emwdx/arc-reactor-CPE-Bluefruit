@@ -1,5 +1,5 @@
 # Ironman Arc Reactor
-# This program uses the Circuit Playground Express on the back of a
+# This program uses the Circuit Playground Bluefruit to pulse Neopixels and make a slow, pulsing cyan glow as part of an Arc reactor prop.
 # Programmed by Evan Weinberg in CircuitPython
 
 import time
